@@ -1,4 +1,0 @@
-[[redirects]]
-  from = "/Homepage"                        # Old URL path
-  to = "https://LateStore.com/Homepage"                         # New page within the same site
-  status = 301     
